@@ -1,0 +1,99 @@
+ BIB References
+[1] J. Wollbold. A Geometric–Fractal Tetrahedral Model of Matter and Space: From Atomic
+Bonds to Cosmic Structures. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.
+IO/HYAX5.
+[2] J. Wollbold. From Geometry to Spectra: Predicting Atomic Masses and Ionization Energies
+from Space Elasticity in the MMU Framework. OSF Preprint (2025). DOI: https://doi.
+org/10.17605/OSF.IO/JC2S4.
+[3] J. Wollbold. Geometric Origin of the 21 cm Line and Hyperfine Spin-Flip Structure in the
+Methane Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/
+JKV6H.
+[4] J. Wollbold. Unified Determination of the Cross-Coupling Constants k23, k24 and k34 in
+the MMU Tetrahedral Model from Larmor, Zeeman and Lamb Resonances. OSF Preprint
+(2025). DOI: https://doi.org/10.17605/OSF.IO/48EQX.
+[5] J. Wollbold. Determination of the UR–Tetrahedron in the Methane Metauniverse (MMU):
+From Elastic Constants to Lepton Scaling. OSF Preprint (2025). DOI: https://doi.org/
+10.17605/OSF.IO/NRW3S.
+[6] J. Wollbold. Dissipative Lagrange Field Equation of the Methane Metauniverse (MMU):
+Geometric Origin of Thermal Damping and Spatial Healing. OSF Preprint (2025). DOI:
+https://doi.org/10.17605/OSF.IO/VUTNX.
+[7] J. Wollbold. The Methane Metauniverse (MMU): A Case Study in AI-Assisted Theoretical
+Physics and Human–Machine Scientific Creativity. OSF Preprint (2025). DOI: https://
+doi.org/10.17605/OSF.IO/SCXPQ.
+[8] J. Wollbold. Geometric Quantization of the Internal Edge Length in the MMU Model. OSF
+Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/NUPXY.
+[9] J. Wollbold. MMU 2.0: A Unified Geometric Model of Internal Spin, Torsion–Volume
+Coupling, and the g–Factor in Dual Tetrahedral Spacetime. OSF Preprint (2025). DOI:
+https://doi.org/10.17605/OSF.IO/N754E.
+[10] J. Wollbold. Geometric Derivation of the Planck Scale in the Methane Metauniverse
+(MMU). OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/42K9S.
+8
+[11] J. Wollbold. Discovery of an Electro–Gravity Fixed Point Beyond the Planck Scale in
+the MMU Tetrahedral Model, OSF Preprint (2025), https://doi.org/10.17605/OSF.IO/
+ACQNH.
+[12] J. Wollbold. From Length–Dependent to Mass–Dependent Stiffness in the MMU: ki(a) →
+ki(m) and Leptonic Balmer Predictions. OSF Preprint (2025). DOI: https://doi.org/10.
+17605/OSF.IO/V43AY.
+[13] J. Wollbold. Projection Principle for Quantum Orbitals: Angular Momentum, Spin, and
+the Pauli Exclusion Rule as Elastic Torsion in the MMU Tetrahedral Model. OSF Preprint
+(2025). DOI: https://doi.org/10.17605/OSF.IO/863MV.
+[14] J. Wollbold. The Dirac Equation as the External Projection of the MMU Ur-Cell: A
+Geometric Origin of Spinors, Antiparticles, and Relativistic Dynamics. OSF Preprint (2025).
+DOI: https://doi.org/10.17605/OSF.IO/HG9FN.
+[15] J. Wollbold. Geometric Quantization of Space and the Origin of the Rydberg Constant in
+the MMU. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/RJXE5.
+[16] J. Wollbold. Electromagnetic Constants from Tetrahedral Geometry: A Geometric Derivation of ε0, µ0, Z0 and c in the Methane Metauniverse (MMU). OSF Preprint (2025). DOI:
+https://doi.org/10.17605/OSF.IO/AB4F2.
+[17] J. Wollbold. Lepton Masses, Koide Geometry, and the g−2 Family Pattern from Tetrahedral
+Torsion in the Methane Metauniverse (MMU). OSF Preprint (2025). DOI: https://doi.
+org/10.17605/OSF.IO/GU9RQ.
+[18] J. Wollbold. Proton Chair Eigenmodes in the Methane Metauniverse (MMU): From Internal
+Rotor Frequencies to Hydrogenic Space Response. OSF Preprint (2025). DOI: https://doi.
+org/10.17605/OSF.IO/BKDCP.
+[19] J. Wollbold. Gravitationally Induced Shifts in Atomic Spectra: A Testable Prediction of
+Tetrahedral Spacetime Geometry. OSF Preprint (2025). DOI: https://doi.org/10.17605/
+OSF.IO/U8B4E.
+[20] J. Wollbold. Microscopic Spacetime Kinematics and the Emergence of Einstein Gravity
+from the Tetrahedral Geometry of the MMU. OSF Preprint (2025). DOI: https://doi.org/
+10.17605/OSF.IO/W96H3.
+[21] J. Wollbold. MMU 3.0: A Minimal Geometric–Elastic Spacetime Model and the Emergence
+of Quantum, Relativistic, and Electromagnetic Structure. OSF Preprint (2025). DOI: https:
+//doi.org/10.17605/OSF.IO/BDTA6.
+[22] J. Wollbold. Why Matter Requires Antimatter: A Stability Mechanism in the Dual–
+Tetrahedral MMU Geometry. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.
+IO/JYRHK.
+[23] J. Wollbold. A Unified Geometric Prediction of Balmer, Zeeman and Lamb Isotope Shifts.
+OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/MZRQ3.
+[24] J. Wollbold. Neutron–Proton Mass Gap as an Electro–Gravity Phase Transition in the
+MMU. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/SD58Q.
+[25] J. Wollbold. A Geometric Proton–Quark Model and Proton g–Factor from Chair–Quark
+Torsion in the Methane Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.
+17605/OSF.IO/F5NGS.
+9
+[26] J. Wollbold. Lepton Masses from Torsional Geometry of Space and Their Verification via
+Hyperfine and Isotope Shifts. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.
+IO/P8ZT7.
+[27] J. Wollbold. Black Hole Horizons and Hawking Temperature as Projection Phenomena in
+the Methane Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.
+IO/M5TH3.
+[28] J. Wollbold. Geodesics and Gravitational Redshift as Projection Necessities in the Methane
+Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/JKXY7.
+[29] J. Wollbold. Unavoidability of the Dirac Operator from Dual–Tetrahedral Geometry in the
+Methane Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/
+Y3MQ5.
+[30] J. Wollbold. Wavefunction, Linearity, and Measurement as Lattice Dynamics in the
+Methane Metauniverse. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/
+WG48D.
+[31] J. Wollbold. A Minimal Geometric–Elastic Origin of Quantum Dynamics, Lorentz Symmetry and Weak Decay Rates in the Methane Metauniverse (MMU). OSF Preprint (2025).
+DOI: https://doi.org/10.17605/OSF.IO/TREHB.
+[32] J. Wollbold. Elastic Prestress, Time, and Gravitation in the Methane Metauniverse Framework. OSF Preprint (2025). DOI: https://doi.org/10.17605/OSF.IO/2QRMS.
+[33] J. Wollbold. A Local Scale–Filtered Interface for Atomic Short–Range Effects. OSF Preprint
+(2025). DOI: https://doi.org/10.17605/OSF.IO/VPWC6.
+[34] J. Wollbold. Foundational Objections to Discrete Spacetime Models and Their Resolution
+in the Methane Metauniverse Framework. OSF Preprint (2025). DOI: https://doi.org/
+10.17605/OSF.IO/ME5RZ.
+[35] J. Wollbold. AI–Augmented Theory Formation in the Methane Metauniverse (MMU)
+Project. OSF Preprint (2026). DOI: https://doi.org/10.17605/OSF.IO/P4JVC.
+[36] J. Wollbold. AI–Based Benchmarking of the Methane Metauniverse (MMU) A Comparative Audit Using Gemini, Copilot, and Independent Evaluation
+Project. OSF Preprint (2026). DOI:https://doi.org/10.17605/OSF.IO/CYRU2.
+
